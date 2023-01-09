@@ -1,0 +1,2 @@
+Tento soubor je pro ukázku práci se soubory v Pythonu.
+XXX
