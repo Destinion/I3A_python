@@ -14,6 +14,7 @@ class Auto: #Třída Auto
         print("Barva: ", self.barva)
         
 auto1 = Auto ("4A2 3020", "červená") #Vytvoření objektu auto1
+auto1.vypis_info() #Přivolání metody
 
 
 
